@@ -1,5 +1,3 @@
-# Simple-Distributed-File-System
-
 # Simple Distributed File System
 
 An individual distributed file system built with Java, Spring Boot, PostgreSQL,
